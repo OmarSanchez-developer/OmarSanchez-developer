@@ -1,5 +1,5 @@
 ### Hola 👋, Me llamo Omar Sánchez
-#### Ingeniero en sistemas | Sofare | Web Full Stack | C#  |  Python  | React | Nativo | Multiplataforma.
+#### Ingeniero en sistemas | Software | Web Full Stack | C#  |  Python  | React | Nativo | Multiplataforma.
 Soy Ingeniero en Sistemas Computacionales, intento contribuír con distintas tecnologías y diversas aplicaciónes.
 
 Como : C#, JavaScript, Python, React, etc.

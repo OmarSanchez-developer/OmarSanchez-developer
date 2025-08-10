@@ -48,7 +48,7 @@ Soy constante, perseverante y autodidacta. Creo firmemente que cada mejora detec
 - Habilidades: Desarrollo Web | Habilidades blandas | JavaScript | HTML5 | CSS3 | C# | Desarrollo Web | Analisis en Seguridad Informática.
 `
 - 🔭 Estoy trabajando en Proyectos básicos que incluyan este tipo de tecnologías C#, Mvc, Swagger, Mysql, React, JavaScript, Java, Android, IOS, etc 
-- 🌱 Estoy aprendiendo C# , Mvc, React , JavaScript, Java 
+- 🌱 Estoy aprendiendo Oracle OCI Data Science Professional and Oracle Cloud Infrastructure Data Science Professional | 2025- today, JavaScript, Java 
 - 👯 Quiero colaborar con Proyectos básicos en donde pueda aportar conocimiento y valor a las distintas comunidades. 
 - 💬 Pregúntame acerca de Como se hace tal cosa, y si no estoy 100% seguro creéme que lo investigaré 
 - 📫 Cómo contactarme: https://twitter.com/OmarSanchezG3 
